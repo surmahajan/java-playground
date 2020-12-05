@@ -1,0 +1,18 @@
+1. Search - artist, year, song, etc —> search api —> document store
+2. Create a new playlist - unlimited
+3. Listen - streaming/offline
+
+Search - Elastic
+
+playlist - Elastic
+
+-- Create
+-- Update
+-- Delete
+-- Find all
+
+Play - CDN
+
+-- playBySongId
+-- playByArtist
+-- playByList
